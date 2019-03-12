@@ -1,0 +1,20 @@
+.jumbotron img {
+	width: 200px;
+	height: 200px;
+	border: 5px solid #999;
+	border-radius: 50%
+}
+
+.ibt {
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.about hr {
+	width: 200px;
+	border-top: 3px solid #666;
+}
+
+.asu {
+	text-align: center;
+}
